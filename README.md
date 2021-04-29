@@ -1,6 +1,6 @@
-﻿#Rosebank Project
+﻿# Rosebank Project
 
-###Description: it is a project to test Get, Post, Put and Delete methods for a bank Endpoint.
+### Description: it is a project to test Get, Post, Put and Delete methods for a bank Endpoint.
 
 First of all, you need to create your own Endpoint at https://mockapi.io/projects with the properties listed above:
 
@@ -19,7 +19,7 @@ First of all, you need to create your own Endpoint at https://mockapi.io/project
   <img alt="Maps image" src="https://s3.amazonaws.com/images.rousangela.com/mockapi.ioprojects.jpeg">
 </p>
 
-###Steps to run the Rosebank Project
+### Steps to run the Rosebank Project
 1. Clone the project
 2. Build the POM: go to pom.xml, click on the maven option in the right sidebar and then click on refresh to download the following libraries dependencies:
 >   
